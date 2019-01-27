@@ -1,16 +1,14 @@
 {
-  "name": "test_node",
-  "version": "1.0.0",
-  "description": "test node app",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "author": "",
-  "license": "ISC",
+  "name": "socket-chat-example",
+  "version": "0.0.1",
+  "description": "my first socket.io app",
   "dependencies": {
     "express": "^4.15.2",
-    "socket.io": "^2.2.0"
-  }
+    "socket.io": "^1.7.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Esam Eisa",
+  "license": "ISC"
 }
