@@ -1,7 +1,7 @@
 {
-  "name": "socket-chat-example",
+  "name": "test_node_chat_realtime",
   "version": "0.0.1",
-  "description": "my first socket.io app",
+  "description": "my first socket.io app : test realtime chat with node and socket.io",
   "dependencies": {
     "express": "^4.15.2",
     "socket.io": "^1.7.3"
