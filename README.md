@@ -10,19 +10,3 @@ More Details about Heroku: https://en.wikipedia.org/wiki/Heroku
 
 Create your first node project and upload it on heroku:
 Tutorial: https://www.youtube.com/watch?v=P86N9FqNqso
-
-
-  {
-    "name": "test_node_chat_realtime",
-    "version": "0.0.1",
-    "description": "my first socket.io app : test realtime chat with node and socket.io",
-    "dependencies": {
-      "express": "^4.15.2",
-      "socket.io": "^1.7.3"
-    },
-    "scripts": {
-      "start": "node server.js"
-    },
-    "author": "Esam Eisa",
-    "license": "ISC"
-  }
